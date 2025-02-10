@@ -1,4 +1,4 @@
-# Hi there, I'm Absat 👋
+# Hi there, I'm Nurlybek 👋
 
 ## 💻 React Front-end Developer  
 
